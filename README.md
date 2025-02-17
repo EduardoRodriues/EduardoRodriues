@@ -9,9 +9,11 @@ I am a student of ADS (Systems Analysis and Development) and a freelancer for 6 
 <div style="text-align: left;" align="left">
   <h3>GitHub Stats</h3>
   <br>
-  <a href="https://github.com/EduardoRodriues/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardoRodriues&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFFFF&hide=html,scss,less&bg_color=1C1C1C&text_color=E0E0E0&border_radius=3&border_color=444444&count_private=true" alt="Most Used Languages">
-</a>
+  <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoRodriues&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 </div>
 
 ##
@@ -39,13 +41,6 @@ I am a student of ADS (Systems Analysis and Development) and a freelancer for 6 
   <a href="https://www.linkedin.com/in/1-carlos-rodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
-<picture style="position: relative; left: -10px;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
