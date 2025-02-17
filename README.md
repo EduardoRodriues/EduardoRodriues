@@ -1,5 +1,9 @@
 ## Olá! Eu sou o Eduardo Rodrigues
 
+<p>Estudante de ADS(Análise e Desenvolvimento de Sistemas) e freeLancer durante 6 meses.
+Programo na área de desenvolvimento Full Stack Java e Angular, sempre buscando experiência
+profissional. Tenho 19 anos, gosto de ler e pratico artes marciais.</p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="carlos-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="carlos-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
