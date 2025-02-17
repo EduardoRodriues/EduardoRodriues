@@ -30,10 +30,6 @@ I am a student of ADS (Systems Analysis and Development) and a freelancer for 6 
 </div>
 
 
-<img src="https://raw.githubusercontent.com/EduardoRodriues/EduardoRodriues/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
 
