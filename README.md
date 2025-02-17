@@ -1,10 +1,14 @@
-## Olá! Eu sou o Eduardo Rodrigues
+## Hi There👋! My name is Eduardo Rodrigues
 
-<p>Estudante de ADS(Análise e Desenvolvimento de Sistemas) e freeLancer durante 6 meses.
-Programo na área de desenvolvimento Full Stack Java e Angular, sempre buscando experiência
-profissional. Tenho 19 anos, gosto de ler e pratico artes marciais.</p>
+<h3 align="left">About me</h3>
+
+I am a student of ADS (Systems Analysis and Development) and a freelancer for 6 months. I program in the Full Stack development area with Java and Angular, always seeking professional experience. I am 19 years old, enjoy reading, and practice martial arts.</p>
+
+##
+
 
 <div style="display: inline_block"><br>
+  <h3 align="left">I code with</h3>
   <img align="center" alt="carlos-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="carlos-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="carlos-angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
@@ -24,5 +28,12 @@ profissional. Tenho 19 anos, gosto de ler e pratico artes marciais.</p>
   <a href = "mailto:eduardorodrigues9282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/1-carlos-rodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+<img src="https://raw.githubusercontent.com/EduardoRodriues/EduardoRodriues/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 
