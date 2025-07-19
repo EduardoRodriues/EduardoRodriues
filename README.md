@@ -36,7 +36,7 @@ My greatest strength? Persistence! I’m not the type to give up easily — I fa
   <img align="center" alt="carlos-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="carlos-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="carlos-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="carlos-angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postegresql/postgresql-original.svg">
+  <img align="center" alt="carlos-angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="carlos-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
