@@ -6,7 +6,9 @@
 
 <h3 align="left">About me</h3><br>
 
-I am a student of ADS (Systems Analysis and Development) and a freelancer for 6 months. I program in the Full Stack development area with Java and Angular, always seeking professional experience. I am 19 years old, enjoy reading, and practice martial arts.</p>
+I’m a full-stack web developer with experience in Java and TypeScript, always looking for new challenges. I began my journey by building strong skills in various technologies, including Spring, React, Node.js, Angular, and SQL.
+
+My greatest strength? Persistence! I’m not the type to give up easily — I face problems head-on until I find the best solution. With a keen eye for detail and a commitment to excellence, I’m ready to contribute to innovative and impactful projects.
 
 ##
 
